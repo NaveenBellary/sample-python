@@ -99,3 +99,14 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# OS
+.idea
+.DS_Store
+._*
+
+# IDEs
+.project
+.pydevproject
+.settings
+.metadata
